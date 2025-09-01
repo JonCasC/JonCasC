@@ -1,16 +1,20 @@
-## Hi there 👋
+I'm Jonas, a Master's student in Chemistry at Eberhard Karls University Tübingen.
 
-<!--
-**JonCasC/JonCasC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently building an in-house research project for my thesis in organic and analytical chemistry. Alongside this, I'm working on side projects in chemistry and data science.
 
-Here are some ideas to get you started:
+**Background:**  
+- Analytical, Organic and Inorganic Chemistry  
+- Data Science & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently learning:**  
+- Metabolite research  
+- Graph neural networks  
+- Expanding my Python and data visualization skills
+- Mandarin (Chinese)
+
+**Experience:**  
+- Laboratory work in chemical synthesis  
+- Supervising student internships  
+- Short-term experience in electronic manufacturing
+
+If you’re interested in collaboration or want to chat about chemistry, data science, or machine learning, feel free to reach out!
